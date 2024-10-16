@@ -1,353 +1,2406 @@
 {
-  "text": " यह टेस्ट नंबर वन है इसमें मैं यह देखना चाहता हूं कि जो आवाज है उसके टाइम स्टैम्प कैसे आ रहे हैं",
+  "text": " I accidentally catfished a girl six years older than me, and now she's marrying my brother. Life's weird, right? So here's a wild one for you. When I was 15, I randomly met a girl online. She was 21 and thought I was two. I didn't correct her because why not? I was bored, curious, and honestly, it was kind of fun talking to someone older. Over the next year, we became pretty close friends. We would chat on the phone for hours, sometimes up to 10 hours a day, and no, nothing weird ever happened because well, I'm gay. But this whole thing went on until one day, she dropped a bombshell on me. Out of the blue, she called and casually asked, how are you going to celebrate your 16th birthday? My brain short-circuited, I panicked. I mean, what was I supposed to say? Surprise. I've been lying to you this whole time. So, like any mature 15-year-old, I blocked her everywhere and hoped I could pretend it never happened. Here's the kicker. A few years later, she matched with my brother on Tinder of all people. And when she mentioned me during their chats, everything unraveled. My brother was like, wait, my teenage brother was your 21-year-old online friend? Oof. Fast forward five years. They're now engaged, bought a house, and getting married in May. And me? Not invited. Yep, LMAO.",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 0.3,
-      "end": 12.92,
-      "text": " यह टेस्ट नंबर वन है इसमें मैं यह देखना चाहता हूं कि जो आवाज है उसके टाइम स्टैम्प कैसे आ रहे हैं",
+      "start": 0.04,
+      "end": 2.5,
+      "text": " I accidentally catfished a girl six years older than me,",
       "tokens": [
-        50403,
-        8485,
-        107,
-        44500,
-        8485,
-        253,
-        21981,
-        45938,
-        27099,
-        3941,
-        253,
-        8485,
-        101,
-        31945,
-        3941,
-        105,
-        25411,
-        8485,
-        113,
-        35082,
-        37139,
-        43372,
-        8485,
-        229,
-        45938,
-        48521,
-        21981,
-        31945,
-        48449,
-        43372,
-        31945,
-        8485,
-        107,
-        44500,
-        8485,
-        99,
-        21981,
-        3941,
-        244,
-        35082,
-        17937,
-        8485,
-        248,
-        17937,
-        44500,
-        36158,
-        17937,
-        37139,
-        8703,
-        224,
-        31945,
-        31970,
-        33279,
-        8485,
-        250,
-        33926,
-        8485,
-        228,
-        3941,
-        113,
-        17937,
-        3941,
-        250,
-        37139,
-        43372,
-        8485,
-        231,
-        45938,
-        41858,
-        21981,
-        8485,
-        253,
-        17937,
-        3941,
-        229,
-        48521,
-        49316,
-        27099,
-        3941,
-        253,
-        43372,
-        48521,
-        27099,
-        3941,
-        103,
-        31970,
-        43372,
-        45938,
-        21981,
-        8485,
-        228,
-        8485,
-        108,
-        44500,
-        21981,
-        37139,
-        43372,
-        31945
+        50363,
+        314,
+        14716,
+        3797,
+        69,
+        1348,
+        257,
+        2576,
+        2237,
+        812,
+        4697,
+        621,
+        502,
+        11,
+        50526
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08597265108667239,
-      "compression_ratio": 1.7608695652173914,
-      "no_speech_prob": 6.204750844341409e-18,
-      "confidence": 0.948,
+      "avg_logprob": -0.17321642921084449,
+      "compression_ratio": 1.4912280701754386,
+      "no_speech_prob": 0.018051302060484886,
+      "confidence": 0.946,
       "words": [
         {
-          "text": "यह",
-          "start": 0.3,
-          "end": 1.44,
-          "confidence": 0.814
+          "text": "I",
+          "start": 0.04,
+          "end": 0.18,
+          "confidence": 0.907
         },
         {
-          "text": "टेस्ट",
-          "start": 1.44,
-          "end": 1.94,
-          "confidence": 0.999
+          "text": "accidentally",
+          "start": 0.18,
+          "end": 0.62,
+          "confidence": 0.955
         },
         {
-          "text": "नंबर",
-          "start": 1.94,
-          "end": 2.4,
+          "text": "catfished",
+          "start": 0.62,
+          "end": 1.24,
+          "confidence": 0.904
+        },
+        {
+          "text": "a",
+          "start": 1.24,
+          "end": 1.36,
           "confidence": 0.995
         },
         {
-          "text": "वन",
-          "start": 2.4,
-          "end": 2.84,
-          "confidence": 0.964
+          "text": "girl",
+          "start": 1.36,
+          "end": 1.5,
+          "confidence": 0.995
         },
         {
-          "text": "है",
-          "start": 2.84,
-          "end": 3.08,
-          "confidence": 0.996
+          "text": "six",
+          "start": 1.5,
+          "end": 1.76,
+          "confidence": 0.851
         },
         {
-          "text": "इसमें",
-          "start": 3.08,
-          "end": 4.52,
-          "confidence": 0.983
+          "text": "years",
+          "start": 1.76,
+          "end": 1.96,
+          "confidence": 0.991
         },
         {
-          "text": "मैं",
-          "start": 4.52,
-          "end": 5.22,
-          "confidence": 0.998
+          "text": "older",
+          "start": 1.96,
+          "end": 2.16,
+          "confidence": 0.976
         },
         {
-          "text": "यह",
-          "start": 5.22,
-          "end": 5.44,
-          "confidence": 0.963
+          "text": "than",
+          "start": 2.16,
+          "end": 2.34,
+          "confidence": 0.993
         },
         {
-          "text": "देखना",
-          "start": 5.44,
-          "end": 5.74,
-          "confidence": 1.0
-        },
+          "text": "me,",
+          "start": 2.34,
+          "end": 2.5,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.3,
+      "end": 4.66,
+      "text": " and now she's marrying my brother.",
+      "tokens": [
+        50526,
+        290,
+        783,
+        673,
+        338,
+        34862,
+        616,
+        3956,
+        13,
+        50633
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17321642921084449,
+      "compression_ratio": 1.4912280701754386,
+      "no_speech_prob": 0.018051302060484886,
+      "confidence": 0.994,
+      "words": [
         {
-          "text": "चाहता",
-          "start": 5.74,
-          "end": 6.1,
-          "confidence": 1.0
-        },
-        {
-          "text": "हूं",
-          "start": 6.1,
-          "end": 6.44,
-          "confidence": 0.874
-        },
-        {
-          "text": "कि",
-          "start": 6.44,
-          "end": 7.48,
+          "text": "and",
+          "start": 3.3,
+          "end": 3.46,
           "confidence": 0.994
         },
         {
-          "text": "जो",
-          "start": 7.48,
-          "end": 8.52,
-          "confidence": 1.0
+          "text": "now",
+          "start": 3.46,
+          "end": 3.64,
+          "confidence": 0.998
         },
         {
-          "text": "आवाज",
-          "start": 8.52,
-          "end": 9.04,
-          "confidence": 0.997
-        },
-        {
-          "text": "है",
-          "start": 9.04,
-          "end": 9.3,
-          "confidence": 0.865
-        },
-        {
-          "text": "उसके",
-          "start": 9.3,
-          "end": 10.14,
-          "confidence": 0.973
-        },
-        {
-          "text": "टाइम",
-          "start": 10.14,
-          "end": 10.48,
-          "confidence": 1.0
-        },
-        {
-          "text": "स्टैम्प",
-          "start": 10.48,
-          "end": 10.9,
-          "confidence": 0.781
-        },
-        {
-          "text": "कैसे",
-          "start": 10.9,
-          "end": 12.08,
-          "confidence": 0.876
-        },
-        {
-          "text": "आ",
-          "start": 12.08,
-          "end": 12.3,
-          "confidence": 0.87
-        },
-        {
-          "text": "रहे",
-          "start": 12.3,
-          "end": 12.52,
+          "text": "she's",
+          "start": 3.64,
+          "end": 3.94,
           "confidence": 0.985
         },
         {
-          "text": "हैं",
-          "start": 12.52,
-          "end": 12.92,
-          "confidence": 0.959
+          "text": "marrying",
+          "start": 3.94,
+          "end": 4.12,
+          "confidence": 0.998
+        },
+        {
+          "text": "my",
+          "start": 4.12,
+          "end": 4.34,
+          "confidence": 0.999
+        },
+        {
+          "text": "brother.",
+          "start": 4.34,
+          "end": 4.66,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.4,
+      "end": 6.16,
+      "text": " Life's weird, right?",
+      "tokens": [
+        50633,
+        5155,
+        338,
+        7650,
+        11,
+        826,
+        30,
+        50725
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17321642921084449,
+      "compression_ratio": 1.4912280701754386,
+      "no_speech_prob": 0.018051302060484886,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "Life's",
+          "start": 5.4,
+          "end": 5.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "weird,",
+          "start": 5.68,
+          "end": 5.9,
+          "confidence": 0.999
+        },
+        {
+          "text": "right?",
+          "start": 6.1,
+          "end": 6.16,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 7.26,
+      "end": 9.17,
+      "text": " So here's a wild one for you.",
+      "tokens": [
+        50725,
+        1406,
+        994,
+        338,
+        257,
+        4295,
+        530,
+        329,
+        345,
+        13,
+        50840
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17321642921084449,
+      "compression_ratio": 1.4912280701754386,
+      "no_speech_prob": 0.018051302060484886,
+      "confidence": 0.924,
+      "words": [
+        {
+          "text": "So",
+          "start": 7.26,
+          "end": 7.56,
+          "confidence": 0.999
+        },
+        {
+          "text": "here's",
+          "start": 7.56,
+          "end": 8.42,
+          "confidence": 0.736
+        },
+        {
+          "text": "a",
+          "start": 8.42,
+          "end": 8.48,
+          "confidence": 0.995
+        },
+        {
+          "text": "wild",
+          "start": 8.48,
+          "end": 8.62,
+          "confidence": 0.993
+        },
+        {
+          "text": "one",
+          "start": 8.62,
+          "end": 8.84,
+          "confidence": 0.999
+        },
+        {
+          "text": "for",
+          "start": 8.84,
+          "end": 9.02,
+          "confidence": 0.999
+        },
+        {
+          "text": "you.",
+          "start": 9.02,
+          "end": 9.17,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 9.17,
+      "end": 12.16,
+      "text": " When I was 15, I randomly met a girl online.",
+      "tokens": [
+        50840,
+        1649,
+        314,
+        373,
+        1315,
+        11,
+        314,
+        15456,
+        1138,
+        257,
+        2576,
+        2691,
+        13,
+        51007
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17321642921084449,
+      "compression_ratio": 1.4912280701754386,
+      "no_speech_prob": 0.018051302060484886,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "When",
+          "start": 9.17,
+          "end": 9.68,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 9.68,
+          "end": 9.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "was",
+          "start": 9.78,
+          "end": 9.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "15,",
+          "start": 9.88,
+          "end": 10.26,
+          "confidence": 0.984
+        },
+        {
+          "text": "I",
+          "start": 10.72,
+          "end": 10.86,
+          "confidence": 0.901
+        },
+        {
+          "text": "randomly",
+          "start": 10.86,
+          "end": 11.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "met",
+          "start": 11.04,
+          "end": 11.4,
+          "confidence": 0.997
+        },
+        {
+          "text": "a",
+          "start": 11.4,
+          "end": 11.7,
+          "confidence": 0.995
+        },
+        {
+          "text": "girl",
+          "start": 11.7,
+          "end": 11.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "online.",
+          "start": 11.86,
+          "end": 12.16,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 12.9,
+      "end": 15.46,
+      "text": " She was 21 and thought I was two.",
+      "tokens": [
+        51007,
+        1375,
+        373,
+        2310,
+        290,
+        1807,
+        314,
+        373,
+        734,
+        13,
+        51167
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17321642921084449,
+      "compression_ratio": 1.4912280701754386,
+      "no_speech_prob": 0.018051302060484886,
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "She",
+          "start": 12.9,
+          "end": 13.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "was",
+          "start": 13.02,
+          "end": 13.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "21",
+          "start": 13.14,
+          "end": 13.46,
+          "confidence": 0.996
+        },
+        {
+          "text": "and",
+          "start": 13.46,
+          "end": 14.32,
+          "confidence": 0.596
+        },
+        {
+          "text": "thought",
+          "start": 14.32,
+          "end": 14.66,
+          "confidence": 0.962
+        },
+        {
+          "text": "I",
+          "start": 14.66,
+          "end": 15.04,
+          "confidence": 0.991
+        },
+        {
+          "text": "was",
+          "start": 15.04,
+          "end": 15.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "two.",
+          "start": 15.2,
+          "end": 15.46,
+          "confidence": 0.829
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 15.58,
+      "end": 18.88,
+      "text": " I didn't correct her because why not?",
+      "tokens": [
+        51167,
+        314,
+        1422,
+        470,
+        3376,
+        607,
+        780,
+        1521,
+        407,
+        30,
+        51329
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17321642921084449,
+      "compression_ratio": 1.4912280701754386,
+      "no_speech_prob": 0.018051302060484886,
+      "confidence": 0.892,
+      "words": [
+        {
+          "text": "I",
+          "start": 15.58,
+          "end": 16.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "didn't",
+          "start": 16.22,
+          "end": 16.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "correct",
+          "start": 16.58,
+          "end": 16.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "her",
+          "start": 16.78,
+          "end": 17.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "because",
+          "start": 17.12,
+          "end": 18.1,
+          "confidence": 0.484
+        },
+        {
+          "text": "why",
+          "start": 18.1,
+          "end": 18.68,
+          "confidence": 0.829
+        },
+        {
+          "text": "not?",
+          "start": 18.68,
+          "end": 18.88,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 18.88,
+      "end": 23.88,
+      "text": " I was bored, curious, and honestly,",
+      "tokens": [
+        51329,
+        314,
+        373,
+        17533,
+        11,
+        11040,
+        11,
+        290,
+        12698,
+        11,
+        51579
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17321642921084449,
+      "compression_ratio": 1.4912280701754386,
+      "no_speech_prob": 0.018051302060484886,
+      "confidence": 0.906,
+      "words": [
+        {
+          "text": "I",
+          "start": 18.88,
+          "end": 19.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "was",
+          "start": 19.46,
+          "end": 19.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "bored,",
+          "start": 19.64,
+          "end": 20.96,
+          "confidence": 0.975
+        },
+        {
+          "text": "curious,",
+          "start": 21.34,
+          "end": 21.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "and",
+          "start": 22.38,
+          "end": 22.88,
+          "confidence": 0.597
+        },
+        {
+          "text": "honestly,",
+          "start": 22.88,
+          "end": 23.88,
+          "confidence": 0.962
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 24.96,
+      "end": 27.42,
+      "text": " it was kind of fun talking to someone older.",
+      "tokens": [
+        51609,
+        340,
+        373,
+        1611,
+        286,
+        1257,
+        3375,
+        284,
+        2130,
+        4697,
+        13,
+        51755
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17321642921084449,
+      "compression_ratio": 1.4912280701754386,
+      "no_speech_prob": 0.018051302060484886,
+      "confidence": 0.958,
+      "words": [
+        {
+          "text": "it",
+          "start": 24.96,
+          "end": 25.04,
+          "confidence": 0.993
+        },
+        {
+          "text": "was",
+          "start": 25.04,
+          "end": 25.14,
+          "confidence": 0.999
+        },
+        {
+          "text": "kind",
+          "start": 25.14,
+          "end": 25.24,
+          "confidence": 0.702
+        },
+        {
+          "text": "of",
+          "start": 25.24,
+          "end": 25.34,
+          "confidence": 0.999
+        },
+        {
+          "text": "fun",
+          "start": 25.34,
+          "end": 25.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "talking",
+          "start": 25.58,
+          "end": 26.14,
+          "confidence": 0.979
+        },
+        {
+          "text": "to",
+          "start": 26.14,
+          "end": 26.42,
+          "confidence": 0.998
+        },
+        {
+          "text": "someone",
+          "start": 26.42,
+          "end": 27.12,
+          "confidence": 0.998
+        },
+        {
+          "text": "older.",
+          "start": 27.12,
+          "end": 27.42,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2784,
+      "start": 28.72,
+      "end": 30.96,
+      "text": " Over the next year, we became pretty close friends.",
+      "tokens": [
+        50409,
+        3827,
+        262,
+        1306,
+        614,
+        11,
+        356,
+        2627,
+        2495,
+        1969,
+        2460,
+        13,
+        50551
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1375466138124466,
+      "compression_ratio": 1.5314685314685315,
+      "no_speech_prob": 0.006373234558850527,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "Over",
+          "start": 28.72,
+          "end": 28.88,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 28.88,
+          "end": 29.02,
+          "confidence": 0.998
+        },
+        {
+          "text": "next",
+          "start": 29.02,
+          "end": 29.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "year,",
+          "start": 29.14,
+          "end": 29.42,
+          "confidence": 0.999
+        },
+        {
+          "text": "we",
+          "start": 29.68,
+          "end": 29.86,
+          "confidence": 0.949
+        },
+        {
+          "text": "became",
+          "start": 29.86,
+          "end": 30.14,
+          "confidence": 0.999
+        },
+        {
+          "text": "pretty",
+          "start": 30.14,
+          "end": 30.46,
+          "confidence": 0.993
+        },
+        {
+          "text": "close",
+          "start": 30.46,
+          "end": 30.66,
+          "confidence": 0.999
+        },
+        {
+          "text": "friends.",
+          "start": 30.66,
+          "end": 30.96,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2784,
+      "start": 31.52,
+      "end": 32.82,
+      "text": " We would chat on the phone for hours,",
+      "tokens": [
+        50551,
+        775,
+        561,
+        8537,
+        319,
+        262,
+        3072,
+        329,
+        2250,
+        11,
+        50645
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1375466138124466,
+      "compression_ratio": 1.5314685314685315,
+      "no_speech_prob": 0.006373234558850527,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "We",
+          "start": 31.52,
+          "end": 31.68,
+          "confidence": 0.999
+        },
+        {
+          "text": "would",
+          "start": 31.68,
+          "end": 31.78,
+          "confidence": 0.979
+        },
+        {
+          "text": "chat",
+          "start": 31.78,
+          "end": 31.9,
+          "confidence": 0.989
+        },
+        {
+          "text": "on",
+          "start": 31.9,
+          "end": 32.02,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 32.02,
+          "end": 32.1,
+          "confidence": 0.995
+        },
+        {
+          "text": "phone",
+          "start": 32.1,
+          "end": 32.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "for",
+          "start": 32.26,
+          "end": 32.5,
+          "confidence": 0.991
+        },
+        {
+          "text": "hours,",
+          "start": 32.5,
+          "end": 32.82,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2784,
+      "start": 32.98,
+      "end": 34.64,
+      "text": " sometimes up to 10 hours a day,",
+      "tokens": [
+        50645,
+        3360,
+        510,
+        284,
+        838,
+        2250,
+        257,
+        1110,
+        11,
+        50741
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1375466138124466,
+      "compression_ratio": 1.5314685314685315,
+      "no_speech_prob": 0.006373234558850527,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "sometimes",
+          "start": 32.98,
+          "end": 33.62,
+          "confidence": 0.992
+        },
+        {
+          "text": "up",
+          "start": 33.62,
+          "end": 33.92,
+          "confidence": 0.997
+        },
+        {
+          "text": "to",
+          "start": 33.92,
+          "end": 34.02,
+          "confidence": 0.997
+        },
+        {
+          "text": "10",
+          "start": 34.02,
+          "end": 34.16,
+          "confidence": 0.947
+        },
+        {
+          "text": "hours",
+          "start": 34.16,
+          "end": 34.34,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 34.34,
+          "end": 34.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "day,",
+          "start": 34.44,
+          "end": 34.64,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2784,
+      "start": 34.9,
+      "end": 39.14,
+      "text": " and no, nothing weird ever happened because well, I'm gay.",
+      "tokens": [
+        50741,
+        290,
+        645,
+        11,
+        2147,
+        7650,
+        1683,
+        3022,
+        780,
+        880,
+        11,
+        314,
+        1101,
+        5650,
+        13,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1375466138124466,
+      "compression_ratio": 1.5314685314685315,
+      "no_speech_prob": 0.006373234558850527,
+      "confidence": 0.889,
+      "words": [
+        {
+          "text": "and",
+          "start": 34.9,
+          "end": 35.6,
+          "confidence": 0.998
+        },
+        {
+          "text": "no,",
+          "start": 35.6,
+          "end": 36.04,
+          "confidence": 0.911
+        },
+        {
+          "text": "nothing",
+          "start": 36.12,
+          "end": 36.3,
+          "confidence": 0.995
+        },
+        {
+          "text": "weird",
+          "start": 36.3,
+          "end": 36.5,
+          "confidence": 0.999
+        },
+        {
+          "text": "ever",
+          "start": 36.5,
+          "end": 36.78,
+          "confidence": 0.972
+        },
+        {
+          "text": "happened",
+          "start": 36.78,
+          "end": 37.02,
+          "confidence": 0.997
+        },
+        {
+          "text": "because",
+          "start": 37.02,
+          "end": 37.26,
+          "confidence": 0.883
+        },
+        {
+          "text": "well,",
+          "start": 37.26,
+          "end": 37.54,
+          "confidence": 0.564
+        },
+        {
+          "text": "I'm",
+          "start": 37.82,
+          "end": 38.98,
+          "confidence": 0.794
+        },
+        {
+          "text": "gay.",
+          "start": 38.98,
+          "end": 39.14,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2784,
+      "start": 39.8,
+      "end": 41.49,
+      "text": " But this whole thing went on until one day,",
+      "tokens": [
+        50965,
+        887,
+        428,
+        2187,
+        1517,
+        1816,
+        319,
+        1566,
+        530,
+        1110,
+        11,
+        51055
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1375466138124466,
+      "compression_ratio": 1.5314685314685315,
+      "no_speech_prob": 0.006373234558850527,
+      "confidence": 0.985,
+      "words": [
+        {
+          "text": "But",
+          "start": 39.8,
+          "end": 40.08,
+          "confidence": 0.997
+        },
+        {
+          "text": "this",
+          "start": 40.08,
+          "end": 40.26,
+          "confidence": 0.987
+        },
+        {
+          "text": "whole",
+          "start": 40.26,
+          "end": 40.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "thing",
+          "start": 40.38,
+          "end": 40.54,
+          "confidence": 0.999
+        },
+        {
+          "text": "went",
+          "start": 40.54,
+          "end": 40.74,
+          "confidence": 0.998
+        },
+        {
+          "text": "on",
+          "start": 40.74,
+          "end": 40.88,
+          "confidence": 0.999
+        },
+        {
+          "text": "until",
+          "start": 40.88,
+          "end": 41.12,
+          "confidence": 0.916
+        },
+        {
+          "text": "one",
+          "start": 41.12,
+          "end": 41.36,
+          "confidence": 0.975
+        },
+        {
+          "text": "day,",
+          "start": 41.36,
+          "end": 41.49,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2784,
+      "start": 41.49,
+      "end": 42.78,
+      "text": " she dropped a bombshell on me.",
+      "tokens": [
+        51055,
+        673,
+        5710,
+        257,
+        48714,
+        319,
+        502,
+        13,
+        51163
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1375466138124466,
+      "compression_ratio": 1.5314685314685315,
+      "no_speech_prob": 0.006373234558850527,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "she",
+          "start": 41.49,
+          "end": 41.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "dropped",
+          "start": 41.82,
+          "end": 41.98,
+          "confidence": 0.995
+        },
+        {
+          "text": "a",
+          "start": 41.98,
+          "end": 42.12,
+          "confidence": 0.999
+        },
+        {
+          "text": "bombshell",
+          "start": 42.12,
+          "end": 42.3,
+          "confidence": 0.986
+        },
+        {
+          "text": "on",
+          "start": 42.3,
+          "end": 42.62,
+          "confidence": 0.998
+        },
+        {
+          "text": "me.",
+          "start": 42.62,
+          "end": 42.78,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2784,
+      "start": 43.76,
+      "end": 45.94,
+      "text": " Out of the blue, she called and casually asked,",
+      "tokens": [
+        51163,
+        3806,
+        286,
+        262,
+        4171,
+        11,
+        673,
+        1444,
+        290,
+        27793,
+        1965,
+        11,
+        51313
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1375466138124466,
+      "compression_ratio": 1.5314685314685315,
+      "no_speech_prob": 0.006373234558850527,
+      "confidence": 0.988,
+      "words": [
+        {
+          "text": "Out",
+          "start": 43.76,
+          "end": 43.92,
+          "confidence": 0.997
+        },
+        {
+          "text": "of",
+          "start": 43.92,
+          "end": 43.98,
+          "confidence": 0.989
+        },
+        {
+          "text": "the",
+          "start": 43.98,
+          "end": 44.06,
+          "confidence": 0.997
+        },
+        {
+          "text": "blue,",
+          "start": 44.06,
+          "end": 44.22,
+          "confidence": 0.996
+        },
+        {
+          "text": "she",
+          "start": 44.64,
+          "end": 44.86,
+          "confidence": 0.993
+        },
+        {
+          "text": "called",
+          "start": 44.86,
+          "end": 45.1,
+          "confidence": 0.995
+        },
+        {
+          "text": "and",
+          "start": 45.1,
+          "end": 45.36,
+          "confidence": 0.939
+        },
+        {
+          "text": "casually",
+          "start": 45.36,
+          "end": 45.62,
+          "confidence": 0.997
+        },
+        {
+          "text": "asked,",
+          "start": 45.62,
+          "end": 45.94,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2784,
+      "start": 46.82,
+      "end": 48.58,
+      "text": " how are you going to celebrate your 16th birthday?",
+      "tokens": [
+        51313,
+        703,
+        389,
+        345,
+        1016,
+        284,
+        10648,
+        534,
+        1467,
+        400,
+        10955,
+        30,
+        51465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1375466138124466,
+      "compression_ratio": 1.5314685314685315,
+      "no_speech_prob": 0.006373234558850527,
+      "confidence": 0.969,
+      "words": [
+        {
+          "text": "how",
+          "start": 46.82,
+          "end": 46.96,
+          "confidence": 0.834
+        },
+        {
+          "text": "are",
+          "start": 46.96,
+          "end": 47.06,
+          "confidence": 0.975
+        },
+        {
+          "text": "you",
+          "start": 47.06,
+          "end": 47.14,
+          "confidence": 0.996
+        },
+        {
+          "text": "going",
+          "start": 47.14,
+          "end": 47.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 47.28,
+          "end": 47.4,
+          "confidence": 0.999
+        },
+        {
+          "text": "celebrate",
+          "start": 47.4,
+          "end": 47.6,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 47.6,
+          "end": 47.92,
+          "confidence": 0.995
+        },
+        {
+          "text": "16th",
+          "start": 47.92,
+          "end": 48.3,
+          "confidence": 0.958
+        },
+        {
+          "text": "birthday?",
+          "start": 48.3,
+          "end": 48.58,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2784,
+      "start": 49.88,
+      "end": 51.53,
+      "text": " My brain short-circuited, I panicked.",
+      "tokens": [
+        51465,
+        2011,
+        3632,
+        1790,
+        12,
+        21170,
+        84,
+        863,
+        11,
+        314,
+        38225,
+        13,
+        51567
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1375466138124466,
+      "compression_ratio": 1.5314685314685315,
+      "no_speech_prob": 0.006373234558850527,
+      "confidence": 0.941,
+      "words": [
+        {
+          "text": "My",
+          "start": 49.88,
+          "end": 49.98,
+          "confidence": 0.999
+        },
+        {
+          "text": "brain",
+          "start": 49.98,
+          "end": 50.16,
+          "confidence": 0.998
+        },
+        {
+          "text": "short-circuited,",
+          "start": 50.16,
+          "end": 50.98,
+          "confidence": 0.917
+        },
+        {
+          "text": "I",
+          "start": 51.22,
+          "end": 51.4,
+          "confidence": 0.895
+        },
+        {
+          "text": "panicked.",
+          "start": 51.4,
+          "end": 51.53,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2784,
+      "start": 51.53,
+      "end": 54.32,
+      "text": " I mean, what was I supposed to say?",
+      "tokens": [
+        51567,
+        314,
+        1612,
+        11,
+        644,
+        373,
+        314,
+        4385,
+        284,
+        910,
+        30,
+        51717
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1375466138124466,
+      "compression_ratio": 1.5314685314685315,
+      "no_speech_prob": 0.006373234558850527,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "I",
+          "start": 51.53,
+          "end": 51.98,
+          "confidence": 0.992
+        },
+        {
+          "text": "mean,",
+          "start": 51.98,
+          "end": 52.12,
+          "confidence": 0.999
+        },
+        {
+          "text": "what",
+          "start": 52.84,
+          "end": 53.14,
+          "confidence": 0.998
+        },
+        {
+          "text": "was",
+          "start": 53.14,
+          "end": 53.3,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 53.3,
+          "end": 53.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "supposed",
+          "start": 53.44,
+          "end": 53.72,
+          "confidence": 0.983
+        },
+        {
+          "text": "to",
+          "start": 53.72,
+          "end": 54.02,
+          "confidence": 0.998
+        },
+        {
+          "text": "say?",
+          "start": 54.02,
+          "end": 54.32,
+          "confidence": 0.966
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2784,
+      "start": 54.42,
+      "end": 55.14,
+      "text": " Surprise.",
+      "tokens": [
+        51717,
+        47893,
+        13,
+        51759
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1375466138124466,
+      "compression_ratio": 1.5314685314685315,
+      "no_speech_prob": 0.006373234558850527,
+      "confidence": 0.916,
+      "words": [
+        {
+          "text": "Surprise.",
+          "start": 54.42,
+          "end": 55.14,
+          "confidence": 0.916
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5576,
+      "start": 57.24,
+      "end": 58.7,
+      "text": " I've been lying to you this whole time.",
+      "tokens": [
+        50413,
+        314,
+        1053,
+        587,
+        9105,
+        284,
+        345,
+        428,
+        2187,
+        640,
+        13,
+        50525
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18184421743665422,
+      "compression_ratio": 1.538152610441767,
+      "no_speech_prob": 0.0006648729322478175,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "I've",
+          "start": 57.24,
+          "end": 57.32,
+          "confidence": 0.996
+        },
+        {
+          "text": "been",
+          "start": 57.32,
+          "end": 57.46,
+          "confidence": 0.999
+        },
+        {
+          "text": "lying",
+          "start": 57.46,
+          "end": 57.96,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 57.96,
+          "end": 58.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 58.14,
+          "end": 58.24,
+          "confidence": 0.997
+        },
+        {
+          "text": "this",
+          "start": 58.24,
+          "end": 58.36,
+          "confidence": 0.994
+        },
+        {
+          "text": "whole",
+          "start": 58.36,
+          "end": 58.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "time.",
+          "start": 58.48,
+          "end": 58.7,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5576,
+      "start": 60.4,
+      "end": 63.08,
+      "text": " So, like any mature 15-year-old,",
+      "tokens": [
+        50597,
+        1406,
+        11,
+        588,
+        597,
+        15345,
+        1315,
+        12,
+        1941,
+        12,
+        727,
+        11,
+        50743
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18184421743665422,
+      "compression_ratio": 1.538152610441767,
+      "no_speech_prob": 0.0006648729322478175,
+      "confidence": 0.899,
+      "words": [
+        {
+          "text": "So,",
+          "start": 60.4,
+          "end": 60.62,
+          "confidence": 0.998
+        },
+        {
+          "text": "like",
+          "start": 60.98,
+          "end": 61.2,
+          "confidence": 0.977
+        },
+        {
+          "text": "any",
+          "start": 61.2,
+          "end": 61.44,
+          "confidence": 0.974
+        },
+        {
+          "text": "mature",
+          "start": 61.44,
+          "end": 61.82,
+          "confidence": 0.996
+        },
+        {
+          "text": "15-year-old,",
+          "start": 61.82,
+          "end": 63.08,
+          "confidence": 0.834
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5576,
+      "start": 64.74,
+      "end": 66.9,
+      "text": " I blocked her everywhere and hoped I could pretend",
+      "tokens": [
+        50811,
+        314,
+        10226,
+        607,
+        8347,
+        290,
+        10719,
+        314,
+        714,
+        16614,
+        50939
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18184421743665422,
+      "compression_ratio": 1.538152610441767,
+      "no_speech_prob": 0.0006648729322478175,
+      "confidence": 0.968,
+      "words": [
+        {
+          "text": "I",
+          "start": 64.74,
+          "end": 64.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "blocked",
+          "start": 64.78,
+          "end": 64.9,
+          "confidence": 0.993
+        },
+        {
+          "text": "her",
+          "start": 64.9,
+          "end": 65.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "everywhere",
+          "start": 65.08,
+          "end": 65.46,
+          "confidence": 0.999
+        },
+        {
+          "text": "and",
+          "start": 65.46,
+          "end": 65.94,
+          "confidence": 0.787
+        },
+        {
+          "text": "hoped",
+          "start": 65.94,
+          "end": 66.08,
+          "confidence": 0.989
+        },
+        {
+          "text": "I",
+          "start": 66.08,
+          "end": 66.22,
+          "confidence": 0.975
+        },
+        {
+          "text": "could",
+          "start": 66.22,
+          "end": 66.4,
+          "confidence": 0.997
+        },
+        {
+          "text": "pretend",
+          "start": 66.4,
+          "end": 66.9,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 5576,
+      "start": 68.24,
+      "end": 68.78,
+      "text": " it never happened.",
+      "tokens": [
+        50989,
+        340,
+        1239,
+        3022,
+        13,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18184421743665422,
+      "compression_ratio": 1.538152610441767,
+      "no_speech_prob": 0.0006648729322478175,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "it",
+          "start": 68.24,
+          "end": 68.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "never",
+          "start": 68.32,
+          "end": 68.46,
+          "confidence": 0.983
+        },
+        {
+          "text": "happened.",
+          "start": 68.46,
+          "end": 68.78,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 5576,
+      "start": 69.76,
+      "end": 70.29,
+      "text": " Here's the kicker.",
+      "tokens": [
+        51065,
+        3423,
+        338,
+        262,
+        38297,
+        13,
+        51113
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18184421743665422,
+      "compression_ratio": 1.538152610441767,
+      "no_speech_prob": 0.0006648729322478175,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "Here's",
+          "start": 69.76,
+          "end": 70.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 70.02,
+          "end": 70.1,
+          "confidence": 0.997
+        },
+        {
+          "text": "kicker.",
+          "start": 70.1,
+          "end": 70.29,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 5576,
+      "start": 70.29,
+      "end": 72.9,
+      "text": " A few years later, she matched with my brother",
+      "tokens": [
+        51113,
+        317,
+        1178,
+        812,
+        1568,
+        11,
+        673,
+        14451,
+        351,
+        616,
+        3956,
+        51263
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18184421743665422,
+      "compression_ratio": 1.538152610441767,
+      "no_speech_prob": 0.0006648729322478175,
+      "confidence": 0.988,
+      "words": [
+        {
+          "text": "A",
+          "start": 70.29,
+          "end": 70.8,
+          "confidence": 0.999
+        },
+        {
+          "text": "few",
+          "start": 70.8,
+          "end": 70.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "years",
+          "start": 70.96,
+          "end": 71.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "later,",
+          "start": 71.12,
+          "end": 71.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "she",
+          "start": 71.82,
+          "end": 72.04,
+          "confidence": 0.938
+        },
+        {
+          "text": "matched",
+          "start": 72.04,
+          "end": 72.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "with",
+          "start": 72.24,
+          "end": 72.46,
+          "confidence": 0.967
+        },
+        {
+          "text": "my",
+          "start": 72.46,
+          "end": 72.58,
+          "confidence": 0.995
+        },
+        {
+          "text": "brother",
+          "start": 72.58,
+          "end": 72.9,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 5576,
+      "start": 73.72,
+      "end": 75.56,
+      "text": " on Tinder of all people.",
+      "tokens": [
+        51263,
+        319,
+        44043,
+        286,
+        477,
+        661,
+        13,
+        51383
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18184421743665422,
+      "compression_ratio": 1.538152610441767,
+      "no_speech_prob": 0.0006648729322478175,
+      "confidence": 0.883,
+      "words": [
+        {
+          "text": "on",
+          "start": 73.72,
+          "end": 73.86,
+          "confidence": 0.998
+        },
+        {
+          "text": "Tinder",
+          "start": 73.86,
+          "end": 74.18,
+          "confidence": 0.992
+        },
+        {
+          "text": "of",
+          "start": 74.18,
+          "end": 75.04,
+          "confidence": 0.543
+        },
+        {
+          "text": "all",
+          "start": 75.04,
+          "end": 75.2,
+          "confidence": 0.999
+        },
+        {
+          "text": "people.",
+          "start": 75.2,
+          "end": 75.56,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 5576,
+      "start": 75.66,
+      "end": 77.58,
+      "text": " And when she mentioned me during their chats,",
+      "tokens": [
+        51383,
+        843,
+        618,
+        673,
+        4750,
+        502,
+        1141,
+        511,
+        40815,
+        11,
+        51511
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18184421743665422,
+      "compression_ratio": 1.538152610441767,
+      "no_speech_prob": 0.0006648729322478175,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "And",
+          "start": 75.66,
+          "end": 76.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "when",
+          "start": 76.24,
+          "end": 76.34,
+          "confidence": 0.997
+        },
+        {
+          "text": "she",
+          "start": 76.34,
+          "end": 76.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "mentioned",
+          "start": 76.46,
+          "end": 76.64,
+          "confidence": 0.998
+        },
+        {
+          "text": "me",
+          "start": 76.64,
+          "end": 76.86,
+          "confidence": 0.996
+        },
+        {
+          "text": "during",
+          "start": 76.86,
+          "end": 77.04,
+          "confidence": 0.988
+        },
+        {
+          "text": "their",
+          "start": 77.04,
+          "end": 77.2,
+          "confidence": 0.993
+        },
+        {
+          "text": "chats,",
+          "start": 77.2,
+          "end": 77.58,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 5576,
+      "start": 78.64,
+      "end": 79.44,
+      "text": " everything unraveled.",
+      "tokens": [
+        51511,
+        2279,
+        30282,
+        276,
+        13,
+        51559
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18184421743665422,
+      "compression_ratio": 1.538152610441767,
+      "no_speech_prob": 0.0006648729322478175,
+      "confidence": 0.993,
+      "words": [
+        {
+          "text": "everything",
+          "start": 78.64,
+          "end": 78.88,
+          "confidence": 0.999
+        },
+        {
+          "text": "unraveled.",
+          "start": 78.88,
+          "end": 79.44,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 5576,
+      "start": 79.44,
+      "end": 82.36,
+      "text": " My brother was like, wait, my teenage brother",
+      "tokens": [
+        51559,
+        2011,
+        3956,
+        373,
+        588,
+        11,
+        4043,
+        11,
+        616,
+        16330,
+        3956,
+        51701
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18184421743665422,
+      "compression_ratio": 1.538152610441767,
+      "no_speech_prob": 0.0006648729322478175,
+      "confidence": 0.912,
+      "words": [
+        {
+          "text": "My",
+          "start": 79.44,
+          "end": 79.8,
+          "confidence": 0.999
+        },
+        {
+          "text": "brother",
+          "start": 79.8,
+          "end": 80.0,
+          "confidence": 0.999
+        },
+        {
+          "text": "was",
+          "start": 80.0,
+          "end": 80.2,
+          "confidence": 0.999
+        },
+        {
+          "text": "like,",
+          "start": 80.2,
+          "end": 80.46,
+          "confidence": 0.987
+        },
+        {
+          "text": "wait,",
+          "start": 80.82,
+          "end": 81.3,
+          "confidence": 0.676
+        },
+        {
+          "text": "my",
+          "start": 81.54,
+          "end": 81.78,
+          "confidence": 0.727
+        },
+        {
+          "text": "teenage",
+          "start": 81.78,
+          "end": 82.04,
+          "confidence": 0.994
+        },
+        {
+          "text": "brother",
+          "start": 82.04,
+          "end": 82.36,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 5576,
+      "start": 82.36,
+      "end": 84.38,
+      "text": " was your 21-year-old online friend?",
+      "tokens": [
+        51701,
+        373,
+        534,
+        2310,
+        12,
+        1941,
+        12,
+        727,
+        2691,
+        1545,
+        30,
+        51813
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18184421743665422,
+      "compression_ratio": 1.538152610441767,
+      "no_speech_prob": 0.0006648729322478175,
+      "confidence": 0.938,
+      "words": [
+        {
+          "text": "was",
+          "start": 82.36,
+          "end": 82.6,
+          "confidence": 0.722
+        },
+        {
+          "text": "your",
+          "start": 82.6,
+          "end": 82.82,
+          "confidence": 0.992
+        },
+        {
+          "text": "21-year-old",
+          "start": 82.82,
+          "end": 83.76,
+          "confidence": 0.976
+        },
+        {
+          "text": "online",
+          "start": 83.76,
+          "end": 83.98,
+          "confidence": 0.889
+        },
+        {
+          "text": "friend?",
+          "start": 83.98,
+          "end": 84.38,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 8476,
+      "start": 85.48,
+      "end": 85.74,
+      "text": " Oof.",
+      "tokens": [
+        50405,
+        440,
+        1659,
+        13,
+        50447
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2688313865661621,
+      "compression_ratio": 1.1150442477876106,
+      "no_speech_prob": 0.005178264807909727,
+      "confidence": 0.914,
+      "words": [
+        {
+          "text": "Oof.",
+          "start": 85.48,
+          "end": 85.74,
+          "confidence": 0.914
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 8476,
+      "start": 87.18,
+      "end": 88.18,
+      "text": " Fast forward five years.",
+      "tokens": [
+        50487,
+        12549,
+        2651,
+        1936,
+        812,
+        13,
+        50573
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2688313865661621,
+      "compression_ratio": 1.1150442477876106,
+      "no_speech_prob": 0.005178264807909727,
+      "confidence": 0.888,
+      "words": [
+        {
+          "text": "Fast",
+          "start": 87.18,
+          "end": 87.34,
+          "confidence": 0.993
+        },
+        {
+          "text": "forward",
+          "start": 87.34,
+          "end": 87.62,
+          "confidence": 0.662
+        },
+        {
+          "text": "five",
+          "start": 87.62,
+          "end": 87.9,
+          "confidence": 0.947
+        },
+        {
+          "text": "years.",
+          "start": 87.9,
+          "end": 88.18,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 8476,
+      "start": 88.82,
+      "end": 90.38,
+      "text": " They're now engaged, bought a house,",
+      "tokens": [
+        50573,
+        1119,
+        821,
+        783,
+        7953,
+        11,
+        5839,
+        257,
+        2156,
+        11,
+        50671
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2688313865661621,
+      "compression_ratio": 1.1150442477876106,
+      "no_speech_prob": 0.005178264807909727,
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "They're",
+          "start": 88.82,
+          "end": 89.04,
+          "confidence": 0.996
+        },
+        {
+          "text": "now",
+          "start": 89.04,
+          "end": 89.12,
+          "confidence": 0.995
+        },
+        {
+          "text": "engaged,",
+          "start": 89.12,
+          "end": 89.52,
+          "confidence": 0.999
+        },
+        {
+          "text": "bought",
+          "start": 89.8,
+          "end": 90.0,
+          "confidence": 0.882
+        },
+        {
+          "text": "a",
+          "start": 90.0,
+          "end": 90.14,
+          "confidence": 0.999
+        },
+        {
+          "text": "house,",
+          "start": 90.14,
+          "end": 90.38,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 8476,
+      "start": 90.82,
+      "end": 91.7,
+      "text": " and getting married in May.",
+      "tokens": [
+        50671,
+        290,
+        1972,
+        6405,
+        287,
+        1737,
+        13,
+        50741
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2688313865661621,
+      "compression_ratio": 1.1150442477876106,
+      "no_speech_prob": 0.005178264807909727,
+      "confidence": 0.941,
+      "words": [
+        {
+          "text": "and",
+          "start": 90.82,
+          "end": 90.98,
+          "confidence": 0.995
+        },
+        {
+          "text": "getting",
+          "start": 90.98,
+          "end": 91.14,
+          "confidence": 0.996
+        },
+        {
+          "text": "married",
+          "start": 91.14,
+          "end": 91.34,
+          "confidence": 0.999
+        },
+        {
+          "text": "in",
+          "start": 91.34,
+          "end": 91.54,
+          "confidence": 0.983
+        },
+        {
+          "text": "May.",
+          "start": 91.54,
+          "end": 91.7,
+          "confidence": 0.755
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 8476,
+      "start": 92.24,
+      "end": 92.5,
+      "text": " And me?",
+      "tokens": [
+        50741,
+        843,
+        502,
+        30,
+        50787
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2688313865661621,
+      "compression_ratio": 1.1150442477876106,
+      "no_speech_prob": 0.005178264807909727,
+      "confidence": 0.937,
+      "words": [
+        {
+          "text": "And",
+          "start": 92.24,
+          "end": 92.34,
+          "confidence": 0.881
+        },
+        {
+          "text": "me?",
+          "start": 92.34,
+          "end": 92.5,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 8476,
+      "start": 93.16,
+      "end": 93.52,
+      "text": " Not invited.",
+      "tokens": [
+        50787,
+        1892,
+        9392,
+        13,
+        50829
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2688313865661621,
+      "compression_ratio": 1.1150442477876106,
+      "no_speech_prob": 0.005178264807909727,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Not",
+          "start": 93.16,
+          "end": 93.3,
+          "confidence": 0.995
+        },
+        {
+          "text": "invited.",
+          "start": 93.3,
+          "end": 93.52,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 8476,
+      "start": 93.58,
+      "end": 95.4,
+      "text": " Yep, LMAO.",
+      "tokens": [
+        50829,
+        40810,
+        11,
+        406,
+        5673,
+        46,
+        13,
+        50896
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2688313865661621,
+      "compression_ratio": 1.1150442477876106,
+      "no_speech_prob": 0.005178264807909727,
+      "confidence": 0.753,
+      "words": [
+        {
+          "text": "Yep,",
+          "start": 93.58,
+          "end": 94.08,
+          "confidence": 0.573
+        },
+        {
+          "text": "LMAO.",
+          "start": 94.52,
+          "end": 95.4,
+          "confidence": 0.825
         }
       ]
     }
   ],
-  "language": "uz",
-  "language_probs": {
-    "en": 3.915078650607029e-06,
-    "zh": 6.438997957047832e-08,
-    "de": 4.208854988974053e-06,
-    "es": 1.8124092093785293e-07,
-    "ru": 1.464621959712531e-06,
-    "ko": 3.319081588415429e-05,
-    "fr": 6.892121859891631e-07,
-    "ja": 9.205665992340073e-05,
-    "pt": 1.3076354434815585e-06,
-    "tr": 8.489323022331519e-07,
-    "pl": 6.289458269748138e-07,
-    "ca": 2.0503136965999147e-09,
-    "nl": 1.885741949081421e-05,
-    "ar": 5.91842899666517e-06,
-    "sv": 1.209408878821705e-06,
-    "it": 3.306250164314406e-06,
-    "id": 7.240858394652605e-06,
-    "hi": 0.003461741842329502,
-    "fi": 5.328758106770692e-06,
-    "vi": 2.4400728193541e-07,
-    "he": 1.046681177285791e-06,
-    "uk": 0.00012777736992575228,
-    "el": 3.943959825392085e-08,
-    "ms": 0.00030545410118065774,
-    "cs": 2.7305547973810462e-06,
-    "ro": 6.676268185401568e-06,
-    "da": 9.644681142617628e-08,
-    "hu": 0.00012474058894440532,
-    "ta": 3.7278519471328764e-07,
-    "no": 8.873771002981812e-05,
-    "th": 6.109917194407899e-06,
-    "ur": 0.00013904378283768892,
-    "hr": 0.000123242600238882,
-    "bg": 1.4128511793387588e-05,
-    "lt": 9.335950016975403e-05,
-    "la": 0.0010819516610354185,
-    "mi": 2.7927777068725845e-07,
-    "ml": 8.258364658786377e-08,
-    "cy": 4.5480132371267246e-07,
-    "sk": 0.00011098235700046644,
-    "te": 6.716801692618901e-08,
-    "fa": 5.9699326811823994e-05,
-    "lv": 0.02102988213300705,
-    "bn": 3.4456863886589417e-06,
-    "sr": 0.00011912245099665597,
-    "az": 0.005254028365015984,
-    "sl": 0.0015348660526797175,
-    "kn": 0.0063563683070242405,
-    "et": 0.00020293328270781785,
-    "mk": 5.937313471804373e-05,
-    "br": 0.002251158468425274,
-    "eu": 0.0001544014667160809,
-    "is": 1.137692106567556e-05,
-    "hy": 0.0001495112373959273,
-    "ne": 3.746547463379102e-06,
-    "mn": 0.0028217940125614405,
-    "bs": 4.494283530220855e-06,
-    "kk": 0.004945950582623482,
-    "sq": 4.40376379629015e-06,
-    "sw": 1.074778992915526e-05,
-    "gl": 3.376148242750787e-06,
-    "mr": 1.2478860298870131e-05,
-    "pa": 0.001118395128287375,
-    "si": 0.0008371341973543167,
-    "km": 0.0002955417148768902,
-    "sn": 0.00012191467976663262,
-    "yo": 7.682443538215011e-05,
-    "so": 0.0018986923387274146,
-    "af": 0.00013248044706415385,
-    "oc": 0.005414561368525028,
-    "ka": 0.0013045676751062274,
-    "be": 1.3150389577276655e-06,
-    "tg": 0.026475243270397186,
-    "sd": 0.0018512377282604575,
-    "gu": 0.0033925361931324005,
-    "am": 0.041824132204055786,
-    "yi": 0.005966592114418745,
-    "lo": 0.01762733794748783,
-    "uz": 0.27311450242996216,
-    "fo": 0.0032264029141515493,
-    "ht": 0.023396126925945282,
-    "ps": 1.4165059837978333e-05,
-    "tk": 0.14631938934326172,
-    "nn": 0.0002279732725583017,
-    "mt": 0.025967467576265335,
-    "sa": 0.0019147624261677265,
-    "lb": 0.11297427862882614,
-    "my": 0.002932325704023242,
-    "bo": 0.023586269468069077,
-    "tl": 3.887420461978763e-06,
-    "mg": 0.014169313944876194,
-    "as": 0.001326942816376686,
-    "tt": 0.06121055409312248,
-    "haw": 0.0004543238610494882,
-    "ln": 0.004770333878695965,
-    "ha": 0.008941028267145157,
-    "ba": 0.13114719092845917,
-    "jw": 0.0014437534846365452,
-    "su": 0.0036574876867234707
-  }
+  "language": "en"
 }

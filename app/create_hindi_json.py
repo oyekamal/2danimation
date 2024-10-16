@@ -32,6 +32,7 @@ class AudioTranscriber:
         device : str, optional
             The device to load the model on (e.g., "cpu" or "cuda"). Defaults to "cpu".
         """
+        # "vasista22/whisper-hindi-large-v2"
         self.audio_file = audio_file
         self.model_name = model_name
         self.device = device

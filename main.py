@@ -3,32 +3,32 @@ from app.create_csv_with_roman_words import HindiTransliterator
 from app.remove_silence import AudioProcessor   
 from app.per_frames_data import FrameExploder
 
-# # Create an instance of the AudioTranscriber class
-# transcriber = AudioTranscriber("test1.wav")
+# Create an instance of the AudioTranscriber class
+transcriber = AudioTranscriber("test1.wav")
 
-# # Transcribe the audio and save the result
-# transcriber.transcribe_audio()
+# Transcribe the audio and save the result
+transcriber.transcribe_audio()
 
-# # Create an instance of the HindiTransliterator class
-# transliterator = HindiTransliterator()
+# Create an instance of the HindiTransliterator class
+transliterator = HindiTransliterator()
 
-# # Process the JSON file and save the result to a CSV file
-# transliterator.process_json_to_csv('app/data/result.json', 'app/data/original_timestamp_from_whisper.csv')
+# Process the JSON file and save the result to a CSV file
+transliterator.process_json_to_csv('app/data/result.json', 'app/data/original_timestamp_from_whisper.csv')
 
-# # Create an instance of AudioProcessor
-# processor = AudioProcessor(audio_file='app/test1.wav', csv_file='app/data/original_timestamp_from_whisper.csv')
+# Create an instance of AudioProcessor
+processor = AudioProcessor(audio_file='app/test1.wav', csv_file='app/data/original_timestamp_from_whisper.csv')
 
-# # Step 1: Split the audio into chunks
-# processor.split_audio()
+# Step 1: Split the audio into chunks
+processor.split_audio()
 
-# # Step 2: Process silence durations for each chunk
-# processor.process_silence()
+# Step 2: Process silence durations for each chunk
+processor.process_silence()
 
-# # Step 3: Merge the data and save to a CSV
-# processor.merge_data()
+# Step 3: Merge the data and save to a CSV
+processor.merge_data()
 
-# # Step 4: Clean up the temporary directory
-# processor.clean_up()
+# Step 4: Clean up the temporary directory
+processor.clean_up()
 
 
 

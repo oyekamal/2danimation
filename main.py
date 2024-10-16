@@ -16,7 +16,7 @@ transliterator = HindiTransliterator()
 transliterator.process_json_to_csv('app/data/result.json', 'app/data/original_timestamp_from_whisper.csv')
 
 # Create an instance of AudioProcessor
-processor = AudioProcessor(audio_file='app/test1.wav', csv_file='app/data/original_timestamp_from_whisper.csv')
+processor = AudioProcessor(audio_file='test1.wav', csv_file='app/data/original_timestamp_from_whisper.csv')
 
 # Step 1: Split the audio into chunks
 processor.split_audio()
@@ -33,7 +33,7 @@ processor.clean_up()
 
 
 # Initialize the processor
-exploder = FrameExploder(audio_file='app/test1.wav', csv_file='app/data/merged.csv')
+exploder = FrameExploder(audio_file='test1.wav', csv_file='app/data/merged.csv')
 
 # Get audio duration (optional)
 duration = exploder.get_audio_duration()
